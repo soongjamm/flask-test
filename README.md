@@ -1,4 +1,3 @@
 # flask-test. 
 
-## kisa 이태일 강사님의 강좌  
-### flask를 이용한 fintech webserver
+### flask를 이용한 fintech webserver (KISA 강좌 강사 이태일님)
